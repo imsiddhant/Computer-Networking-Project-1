@@ -1,2 +1,2 @@
-# CCNA_PROJECTS
-PROJECT by Siddhant Gahtori >>>> CCNA-LABS >>>>
+# CCNA_PROJECT
+PROJECT by Aditya Kumar and Siddhant Gahtori
