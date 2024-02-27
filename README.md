@@ -1,2 +1,2 @@
 # CCNA_PROJECT
-PROJECT by Aditya Kumar and Siddhant Gahtori
+PROJECT by Siddhant Gahtori (Insta: geekat07)
